@@ -1,4 +1,4 @@
-snappy-1.1.3
+snappy-1.1.8
 ==============
 
 A fast compressor/decompressor library
