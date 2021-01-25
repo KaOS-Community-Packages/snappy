@@ -12,7 +12,6 @@ md5sums=('70e48cba7fecf289153d009791c9977f')
 
 build() {
   cd "$pkgname-$pkgver"
-  # compile without assertions
   mkdir -p build
   cd build
   cmake --prefix=/usr ..
